@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeel Patel</h1>
 <h3 align="center">A passionate developer and a curious kid from India</h3>
 
+![](https://komarev.com/ghpvc/?username=Jeel15patel&label=PROFILE+VIEWS)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeel15patel" alt="jeel15patel" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Developer and Python etc.**
