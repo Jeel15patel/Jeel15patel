@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeel Patel</h1>
 <h3 align="center">A passionate developer and a curious kid from India</h3>
 
-![](https://komarev.com/ghpvc/?username=Jeel15patel&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Jeel15patel&label=PROFILE+VIEWS&style=for-the-badge&color=red)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeel15patel" alt="jeel15patel" /></a> </p>
 
