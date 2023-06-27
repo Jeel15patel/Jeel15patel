@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer and Python etc.**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, HTML, CSS, JS**
 
 - 📫 How to reach me **15jeel6201patel@gmail.com**
 
